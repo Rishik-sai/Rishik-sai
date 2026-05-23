@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Rishik Sai Vangara
 
-### Agentic AI Engineer · LLM Systems Builder · ML Practitioner
+### Agentic AI Engineer · AI/ML Engineer
 
 *Designing autonomous agents and intelligent pipelines that think, act, and deliver real-world impact*
 
