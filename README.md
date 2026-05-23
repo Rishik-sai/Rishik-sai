@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Rishik Sai Vangara
 
-### AI/ML Engineer · LLM App Builder · Computer Vision Enthusiast
+### Agentic AI Engineer · LLM Systems Builder · ML Practitioner
 
-*Building intelligent systems that bridge the gap between cutting-edge AI and real-world impact*
+*Designing autonomous agents and intelligent pipelines that think, act, and deliver real-world impact*
 
 [![Email](https://img.shields.io/badge/Gmail-rishiksaivangara%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rishiksaivangara@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Rishik--sai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rishik-sai)
@@ -14,27 +14,28 @@
 
 ---
 
-## 🧠 About Me
+## 🤖 About Me
 
-I'm an AI and Machine Learning engineer passionate about building systems that make technology accessible to everyone — including underserved, non-English-speaking communities. From crafting LLM-powered browser tools for rural users to designing intelligent automation pipelines and full-stack AI web apps, I focus on **end-to-end ownership**: from model and API design all the way to the user's screen.
+I'm an **Agentic AI & ML Engineer** who builds systems that don't just respond — they *reason, plan, and act*. I specialize in LLM-powered agents, autonomous workflow pipelines, and multimodal AI applications. Whether it's a browser agent guiding rural users in their native language or an automated news intelligence system running on its own schedule, I build AI that works end-to-end in the real world.
 
+- 🤖 **Core Focus:** Agentic AI systems · LLM pipelines · AI Agents with tool use & memory
 - 🎯 **GATE 2026 AIR 2515** in Data Science & AI · **AIR 5711** in CS & IT
-- 🎓 **9.44 CGPA** — B.Tech CSE at RGUKT RK Valley
-- 🔭 Currently seeking an **AI Systems / ML Engineering Internship** in Robotics & Multimodal Intelligence
-- 🛠️ I build with **LangChain, PyTorch, FastAPI, OpenCV**, and love deploying real products
-- 🌱 Exploring **multimodal AI, computer vision pipelines**, and **agentic AI systems**
+- 🎓 **9.44 CGPA** — B.Tech CSE, RGUKT RK Valley
+- 🔭 Seeking roles as **Agentic AI Engineer / ML Engineer** — internship or full-time
+- 🛠️ Building with **LangChain, Groq, PyTorch, FastAPI, OpenCV, n8n**
+- 🌱 Currently exploring **multi-agent architectures, RAG pipelines, and tool-augmented LLMs**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Agentic AI Toolkit
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🔗 Agent Frameworks & LLM Orchestration
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF4A00?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n%20Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### AI / ML & Computer Vision
+### 🧠 AI / ML & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -42,75 +43,72 @@ I'm an AI and Machine Learning engineer passionate about building systems that m
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### LLM & NLP
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-FF4A00?style=for-the-badge&logoColor=white)
-
-### Backend & APIs
+### ⚙️ Backend, APIs & Agent Infrastructure
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
 
-### Data & Databases
+### 🗄️ Data & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### 🛠️ Languages & DevTools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Agent & AI Projects
 
 ### 🌐 [Universal Browser Assistant](https://github.com/Rishik-sai/YOUR-REPO-LINK)
-> *LangChain · Groq LLM · JavaScript · Browser Extension · NLP*
+> *LangChain · Groq LLM · JavaScript · Browser Extension · Voice Input · NLP*
 
-A browser extension built to **democratize digital access for rural users**. Provides step-by-step page guidance in simple language, full-page translation to native regional languages, and voice query input — all powered by a Groq LLM via LangChain prompt pipelines. Built with real-world multimodal and audio-driven interaction patterns in mind.
+An **agentic browser extension** that acts as a real-time AI assistant across any website — designed specifically for rural, non-English-speaking users. The agent interprets page context, provides step-by-step guidance in the user's native regional language, accepts voice queries, and delivers structured responses via LangChain prompt pipelines. A practical example of a **context-aware, multimodal AI agent** deployed at the browser layer.
 
-`#LLM` `#LangChain` `#Accessibility` `#BrowserExtension` `#NLP`
+`#AgenticAI` `#LangChain` `#LLM` `#MultimodalAgent` `#VoiceInput` `#Accessibility`
 
 ---
 
 ### 📰 [AI News Agent](https://github.com/Rishik-sai/AI-News-Agent)
 > *Python · n8n · NLP · REST APIs · Workflow Automation*
 
-An **end-to-end automated AI agent** that fetches, filters, and summarizes real-time news across categories using n8n workflow automation. Demonstrates modular REST API ingestion, NLP-based summarization pipelines, and scheduled automated delivery — mirroring data annotation and ingestion pipelines common in production AI systems.
+A **fully autonomous AI agent** that independently fetches, processes, categorizes, and summarizes real-time news without human intervention. Built on n8n agentic workflow automation with modular REST API tool integrations and NLP-based summarization — demonstrating the core loop of agentic systems: **perceive → process → act → deliver**, on a scheduled autonomous cadence.
 
-`#AIAgent` `#WorkflowAutomation` `#NLP` `#n8n` `#DataPipeline`
+`#AutonomousAgent` `#WorkflowAutomation` `#NLP` `#n8n` `#AgenticPipeline`
 
 ---
 
 ### 🏫 [Classroom Allocation Management System](https://github.com/Rishik-sai/YOUR-REPO-LINK)
 > *FastAPI · React · MongoDB · SQLite · RESTful APIs*
 
-A **full-stack institutional tool** that automates classroom scheduling and booking. Built FastAPI RESTful endpoints for conflict detection and resource management, normalized SQLite schemas for efficient retrieval, and a dynamic React UI with real-time allocation status and admin controls. End-to-end ownership from database design to frontend delivery.
+A **full-stack intelligent scheduling system** with automated conflict detection and resource allocation logic. FastAPI powers the reasoning backend — handling booking rules, timetable conflicts, and capacity constraints — while a dynamic React frontend surfaces real-time decisions to admins. Demonstrates building **decision-making backend systems** that mirror agent tool-use infrastructure.
 
-`#FastAPI` `#React` `#FullStack` `#MongoDB` `#BackendEngineering`
+`#FastAPI` `#React` `#FullStack` `#IntelligentScheduling` `#BackendSystems`
 
 ---
 
 ### 🎬 [Movie Recommender System](https://github.com/Rishik-sai/movie-recommender-system)
 > *Python · Streamlit · scikit-learn · External APIs*
 
-A **content-based movie recommender** web app using similarity scoring and external metadata APIs for rich poster display. Deployed as an interactive Streamlit application with a clean UI for real-time recommendations.
+A **content-based recommendation engine** using similarity scoring and external metadata APIs, deployed as an interactive Streamlit app. Demonstrates building ML inference pipelines connected to live data sources — a pattern directly transferable to **tool-augmented LLM agents**.
 
-`#RecommenderSystem` `#Streamlit` `#MachineLearning` `#ContentBased`
+`#RecommenderSystem` `#ML` `#Streamlit` `#InferencePipeline`
 
 ---
 
 ### 📩 [SMS Spam Classifier](https://github.com/Rishik-sai/sms-spam-classifier)
 > *Django · TF-IDF · Naive Bayes · SQLite*
 
-A **production-deployed spam detection web app** using TF-IDF feature extraction and Naive Bayes classification, served via Django. Includes a full database-backed web interface for classifying and logging messages.
+A **deployed NLP classification app** using TF-IDF + Naive Bayes for real-time spam detection, served via Django with a full database-backed interface. Showcases production-grade text preprocessing and classification pipelines.
 
-`#NLP` `#TextClassification` `#Django` `#MachineLearning`
+`#NLP` `#TextClassification` `#Django` `#MLDeployment`
 
 ---
 
@@ -130,7 +128,7 @@ A **production-deployed spam detection web app** using TF-IDF feature extraction
 
 ## 🏆 Achievements
 
-| 🥇 | Achievement |
+| | Achievement |
 |---|---|
 | 🎯 | **GATE 2026 AIR 2515** — Data Science & Artificial Intelligence |
 | 🎯 | **GATE 2026 AIR 5711** — Computer Science & IT |
@@ -141,6 +139,18 @@ A **production-deployed spam detection web app** using TF-IDF feature extraction
 
 ---
 
+## 💡 What I'm Building Towards
+
+```text
+Agentic AI Systems     ████████████████████  Expert Interest
+LLM Pipelines & RAG    ███████████████░░░░░  Actively Building
+Multi-Agent Systems    ████████████░░░░░░░░  Exploring
+Computer Vision        ██████████████░░░░░░  Hands-on
+ML Engineering         ███████████████████░  Strong Foundation
+```
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -148,12 +158,12 @@ A **production-deployed spam detection web app** using TF-IDF feature extraction
 [![Email](https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishiksaivangara@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishik-sai)
 
-*Open to AI/ML internships, research collaborations, and open-source contributions.*
+*Open to Agentic AI / ML Engineering roles — internships, research, and open-source collaborations.*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishik-sai&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rishik-sai&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
